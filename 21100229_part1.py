@@ -174,7 +174,7 @@ class Urdu2IPA:
             IPA = "ə"
         return IPA
 
-    def handle_vao_hamza(sefl, word, pos):
+    def handle_vao_hamza(self, word, pos):
         IPA = "o:"
         return IPA
 
