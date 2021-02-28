@@ -1,5 +1,13 @@
 '''
     Roman to Urdu text
+
+    Command Line Arguments:
+    _______________________
+    -----------------------
+    
+    - To get the output:
+    --------------------
+        python3 21100229_part1.py input.txt
 '''
 
 import sys

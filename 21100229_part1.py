@@ -1,5 +1,17 @@
 '''
     Urdu text to IPA
+
+    Command Line Arguments:
+    _______________________
+    -----------------------
+
+    - To calculate error:
+    ---------------------
+        python3 21100229_part1.py input.txt ground_truth.txt
+    
+    - To only get the output:
+    -------------------------
+        python3 21100229_part1.py input.txt
 '''
 import sys
 from jiwer import wer
@@ -61,7 +73,6 @@ class Urdu2IPA:
             "ق": self.handle_cons,
             "ع": self.handle_cons,
             "ف": self.handle_cons,
-            "و": self.handle_cons,
             "س": self.handle_cons,
             "ص": self.handle_cons,
             "ث": self.handle_cons,
