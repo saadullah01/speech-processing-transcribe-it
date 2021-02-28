@@ -1,0 +1,52 @@
+ə ʃ r f i:
+p ɑ: ʈʰ ə k
+kʰ ə l ɑ: n ɑ:
+x ɑ: l u:
+m h k m
+x r i: d̪ i:
+s h ɑ: b
+b kʰ ə e: r n ɑ:
+p l ɑ: s
+r kʰ 
+m n z r
+d̪ʰ  ɑ: g e:
+ʃ b n
+r k v ɑ:
+ʈ r m
+ə m s ɑ: r
+b ɑ: ʤ
+ʃ j ɑ: r i:
+ə i: r ɑ: n
+ə m l ɑ: i:
+b ɑ: t̪ ŋ i:
+ə k s ɑ: n ɑ:
+ɑ: f ɑ: t̪
+t̪ m b u:
+ə f z l i: t̪
+p ɔ: n e:
+ʃ b
+b t̪
+ɖʰ ə o: l i:
+ə ʤ l ɑ:
+t̪ t̪ ɑ: b q
+ə x f ɑ:
+p t̪ʰ ə i:
+s ɑ: q i:
+n j ɑ: r
+d̪ ɑ: ʃ t̪
+s d̪ʰ 
+ʔ b ɑ:
+d̪ i: b ɑ: ʤ
+gʰ ə ʈ ɑ: o:
+d̪ ɑ: r u:
+r k ɑ: k t̪
+ɣ m ɑ: z
+g n
+ʔ f ɑ: f
+ʃ r ɑ: f t̪
+m ʤ ɑ: d̪
+ɔ: v q ɑ: f
+s n d̪ s
+m s l ɑ:
+
+Error = 0.29523809523809524
